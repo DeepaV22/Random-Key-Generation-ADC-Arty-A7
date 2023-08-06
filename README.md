@@ -34,7 +34,7 @@ By combining the raw ADC data with the XOR operations,a robust method for genera
 
 ## Results
 The verification of key uniqueness was conducted using 1107 collected values. The obtained result demonstrated an impressive uniqueness percentage of 99.55%. This high level of uniqueness contributes significantly to the security of the generated keys and their suitability for cryptographic applications.
-![19768972-7655-476a-8bd0-d280ccc8f0bc](https://github.com/DeepaV22/Random-Key-Generation-ADC-Arty-A7/assets/127031332/1f50a844-770a-4048-b179-47e74d75604f)
+<img src="https://github.com/DeepaV22/Random-Key-Generation-ADC-Arty-A7/assets/127031332/1f50a844-770a-4048-b179-47e74d75604" width="100" height="100" >
 ![1b3a7f78-4786-40dc-a483-a71550206e04](https://github.com/DeepaV22/Random-Key-Generation-ADC-Arty-A7/assets/127031332/416785a4-3e70-491a-86bd-adbfdb7d84cc)
 ![0fb0d1c4-af23-407c-81ff-6d583a274fd8](https://github.com/DeepaV22/Random-Key-Generation-ADC-Arty-A7/assets/127031332/ce3053b3-5ab0-42b4-a110-52ba2b13a643)
 
